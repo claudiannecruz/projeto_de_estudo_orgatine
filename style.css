@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Quicksand:wght@300&display=swap');
+body {
+    margin: 0;
+    background-color: #FAE4AD;
+   
+}
+
+
+/*cabeçalho */
+.logo {   
+position: absolute;
+width: 267.4px;
+height: 126px;
+left: -26px;
+top: -10px;
+
+
+
+}
+
+.options {
+    padding: 18px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    color: #000000;
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: none;
+}
+
+.nav {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 125px;
+    padding-left: 65px;
+    
+    
+}
+
+.menu2 {
+    
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    color: #007C84;
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.botãoLogin {
+    margin-top: -46px;
+    position: absolute;
+    margin-left: 1162px;
+    font-family: 'Quicksand', sans-serif;
+    color: #FFFFFF;
+    font-size: 18px;
+    width: 153px;
+    height: 43px;
+    box-sizing: border-box;
+    border-radius: 21px;
+    background: #C74922;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* conteúdo */
+
+
+.texto1 {
+    position: absolute;
+    width: 525px;
+    height: 315px;
+    left: 141px;
+    top: 142px;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 86px;
+    color: #000000;
+    
+}
+
+.texto2 {
+
+    position: absolute;
+    width: 509px;
+    height: 340px;
+    left: 141px;
+    top: 184px;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 115px;
+    color: #000000;
+
+}
+
+.textoSecundario {
+    position: absolute;
+    width: 401px;
+    height: 123px;
+    left: 166px;
+    top: 325px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    color: #007C84;
+    text-align: center;
+    }
+
+.imagem {
+position: absolute;
+width: 701px;
+height: 500px;
+left: 639px;
+top: 86px;
+}
+
+.download {
+    position: absolute;
+    width: 369px;
+    height: 66px;
+    left: 832px;
+    top: 29px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 42px;
+    color: #FFFFFF;    
+    position: absolute;
+    width: 344px;
+    height: 74px;
+    left: 192px;
+    top: 445px;
+    background: #007C84;
+    border-radius: 36px;
+}
